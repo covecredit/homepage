@@ -1,0 +1,5 @@
+Contact: info@hacker.house
+Expires: 2025-12-31T23:59:59.000Z
+Preferred-Languages: en
+Policy: https://hacker.house/security-policy
+Hiring: https://hacker.house/careers
